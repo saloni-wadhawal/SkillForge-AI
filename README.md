@@ -1,4 +1,4 @@
-# 🎮 CodeQuest — Learn Computer Science the Fun Way
+# 🎮 SkillForge AI — An AI-Powered Personalized Learning and Career Preparation Platform
 
 A gamified, Duolingo-style learning platform for computer science — from
 *"what is a computer?"* all the way to job-ready. Built for **children to adults**.
